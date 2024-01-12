@@ -1,10 +1,10 @@
-# Eliiza Data Science Challenge
+# Data Science Challenge
 
-Thank you for taking time to do the Eliiza Data Science challenge. We're looking forward to hearing your thoughts and your approach to these common client asks we've recreated! 
+Thank you for taking time to do the Mantel Group Data Science challenge. We're looking forward to hearing your thoughts and your approach to these common client asks we've recreated! 
 
-The challenge contains two exercises. Because this is the tool we most commonly use across Eliiza, our preference is that you complete exercise 2 in Python. You are welcome to create a Jupyter notebook and use any Python packages. Please send your submission via email, including your code for exercise 2 and any materials for exercise 1.
+The challenge contains two exercises. Because this is the tool we most commonly use across Mantel Group, our preference is that you complete exercise 2 in Python. You are welcome to create a Jupyter notebook and use any Python packages. Please send your submission via email, including your code for exercise 2 and any materials for exercise 1.
 
-The purpose of this challenge is to allow us to kick off the conversation to dive a little deeper into your consulting and technical experience. This is a chance for you to demonstrate how you might approach business problems but we don't expect you to perform every possible variation and approach! Don't stress if you're tight on time - we get it, you have a life outside of applying for jobs - we're not expecting you to spend endless hours perfecting it (or infinite hyperparameter tuning! ;) ), just make sure you do enough to show us just how awesome you are in data science. In exercise 1 we're looking to explore how you would approach solving business problems in a client setting, while exercise 2 focuses on some of the core data science skills.
+The purpose of this challenge is to allow us to kick off the conversation to dive a little deeper into your consulting and technical experience. This is a chance for you to demonstrate how you might approach business problems but we don't expect you to perform every possible variation and approach! Don't stress if you're tight on time - we get it, you have a life outside of applying for jobs - we're not expecting you to spend endless hours perfecting it, just make sure you do enough to demonstrate your abilities in data science. In exercise 1 we're looking to explore how you would approach solving business problems in a client setting, while exercise 2 focuses on some of the core data science skills.
 
 ## Exercises
 
